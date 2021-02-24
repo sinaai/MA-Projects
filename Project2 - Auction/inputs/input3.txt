@@ -1,0 +1,9 @@
+BUY McLaren_570S 11000
+SELL Mazda_MX_5 20000
+BUY Porsche_911_Carrera-S 29000
+SELL BMW_M2 20000
+BUY Fiat_124_Spider 11000
+SELL Mercedes_AMG_C63_Coupe 50000
+BUY Porsche_Cayman 41000
+BUY Mercedes_AMG_GT 51000
+SELL Jaguar_F_Type 60000

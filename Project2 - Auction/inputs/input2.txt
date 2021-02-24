@@ -1,0 +1,12 @@
+SELL McLaren_570S 10000
+BUY Mazda_MX_5 21000
+SELL Porsche_911_Carrera-S 30000
+BUY BMW_M2 19000
+SELL Fiat_124_Spider 10000
+BUY Mercedes_AMG_C63_Coupe 51000
+SELL Porsche_Cayman 40000
+SELL Mercedes_AMG_GT 50000
+BUY Jaguar_F_Type 59000
+SELL Nissan_GT_R 70000
+BUY Ferrari_California_T 81000
+SELL Bentley_Flying_Spur 90000

@@ -1,0 +1,3 @@
+SELL McLaren_570S 10000
+SELL Mazda_MX_5 20000
+SELL Porsche_911_Carrera-S 30000
